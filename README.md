@@ -1,1 +1,1 @@
-# chalmers_dat340_applied_machine_learning
+# DAT340 - Applied Machine Learning
