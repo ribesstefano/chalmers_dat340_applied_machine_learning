@@ -20,7 +20,7 @@ The following are a list of topics covered in the course assignments. For each c
 * Sklearn pipeline
 * ROC-AUC and confusion matrices
 
-The assignment also includes a [written report](reports/DAT340 - Assignment 3 - Report.pdf) summarizing and discussion the models implementation.
+The assignment also includes a [written report](reports/DAT340%20-%20Assignment%203%20-%20Report.pdf) summarizing and discussion the models implementation and results.
 
 ## Assignment 4: Implementing linear classifiers
 
@@ -43,7 +43,7 @@ The assignment also includes a [written report](reports/DAT340 - Assignment 3 - 
 
 ## Writing Assignment 1: A graph placement methodology for fast chip design
 
-A summary of the paper *"A graph placement methodology for fast chip design"*, by Mirhoseini et al., Nature 2021.
+The report includes a summary of the paper *"A graph placement methodology for fast chip design"*, by Mirhoseini et al., Nature 2021.
 
 ## Writing Assignment 2: Breaking Things is Easy
 
